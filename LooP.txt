@@ -3,7 +3,7 @@ public class bai06 {
 public static void main(String[] args)
 {
 int k=0,n,dem,j=0;// khai bao cac bien, dat ja tri ban dau cho cac bien can thiet
-while (j<15) // trong khi so nguyen to da in < 15
+while (j<20) // trong khi so nguyen to da in < 15
 {
 k++; // cong cho k 1 don vi
 dem=0; // reset gia tri cua bien dem =0 ung voi moi ja tri cua k
@@ -38,4 +38,4 @@ System.out.println(k);
 }
 }
 }
-//Hình
+//HÃ¬nh
